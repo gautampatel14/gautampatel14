@@ -52,7 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gautampatel14/gautampatel14/output/snake.svg" alt="Snake animation" />
 
 ###
 
