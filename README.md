@@ -17,10 +17,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
+ 
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
+   <br>
   <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
@@ -35,7 +37,7 @@
 </div>
 
 
-<br><br>
+<br>
 
 
 <div align="left">
