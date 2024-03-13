@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is Gautam Maiyani and I'm a SDE/MERN stack developer</h2>
+<h2 align="left">Hi 👋 My name is Gautam Maiyani and I'm a Full Stack Developer</h2>
 
 
 
