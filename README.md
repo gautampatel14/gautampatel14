@@ -1,16 +1,11 @@
-<h2 align="left">👋 Hi, I'm Gautam Maiyani <br>
-🔹 Experienced in Splunk development, automation, and management
-  <br>
-🔹 Skilled in front-end and back-end development
-   <br>
+<h2 align="left">👋 Hi, I'm Gautam Maiyani, Experienced in Splunk Integration, automation <br> </h2>
+<h4>🔹 Skilled in front-end and back-end development
+   <br> 
 🔹 Proficient in C++, Python, ReactJS, JavaScript, NodeJS, MongoDB, MySQL and modern frameworks.
    <br>
 🔹 Enthusiastic about microservices architecture, cloud technologies, and automation.
    <br>
-🔹 Advocate for clean code and best practices
- <br>
-🌟 Always learning, building, and sharing knowledge!</h2>
-
+</h4>
 
 
 ###
