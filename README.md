@@ -1,9 +1,9 @@
-<h2 align="left">👋 Heyy, I'm Gautam Maiyani, Experienced in Splunk ADD-ON/Splunk SC4SNMP, AI Applications,  microservices and custome plugin with python<br> </h2>
+<h2 align="left">👋 Heyy, I'm Gautam Maiyani, Experienced in Splunk addons/Splunk SC4SNMP, AI Applications, microservices and custome python plugin<br> </h2>
 <h4>🔹 Skilled in front-end and back-end development
    <br> 
-🔹 Proficient in C++, Python, Docker, ReactJS, JavaScript, NodeJS, MongoDB, MySQL, cockroachDB
+🔹 Proficient in C++, Python, Docker, ReactJS, JavaScript, NodeJS, MongoDB, MySQL and cockroachDB
    <br>
-🔹 Enthusiastic about microservices architecture, cloud technologies and .
+🔹 Enthusiastic about microservices architecture, cloud technologies and distributed environment + LLD & HLD
    <br>
 </h4>
 
